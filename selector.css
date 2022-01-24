@@ -1,0 +1,27 @@
+.daftar-siswa {
+  background-color: #60a5fa;
+  border: white;
+}
+:hover {
+  background-color: yellow;
+}
+
+.daftar-siswa1:hover {
+  background-color: gainsboro;
+}
+
+.daftar-siswa2:hover {
+  background-color: gainsboro;
+}
+
+.daftar-siswa3:hover {
+  background-color: gainsboro;
+}
+
+.daftar-siswa4 {
+  background-color: red;
+  border: white;
+}
+:hover {
+  background-color: #e5e7eb;
+}

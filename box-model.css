@@ -1,0 +1,16 @@
+.siswa {
+  background-color: gray;
+  color: black;
+  border: white;
+  font-family: sans-serif;
+  margin: 0px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.siswa:hover {
+  color: white;
+  background-color: #111827;
+}
